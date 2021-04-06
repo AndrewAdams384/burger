@@ -14,6 +14,6 @@ else {
   });
 };
 
-connection. ();
+connection.connect ();
 
 module.exports = connection;
