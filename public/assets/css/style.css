@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+}
+
+.heading h1, .heading h2 {
+    text-align: center;
+    margin: auto;
+}
+
+.heading {
+    background: rgba(255, 255, 255, .4);
+    border-radius: 2rem;
+    
+}
+
+.addBurger {
+    text-align: center;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.addBurgerForm {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 1rem;
+
+}
